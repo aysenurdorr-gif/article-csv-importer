@@ -1,0 +1,28 @@
+sku;name;preis;bestand;kategorie;ean
+PS-1001;Pappteller rund 23 cm;12,90;340;Teller;4002911100011
+PS-1002;Serviette 3-lagig weiss;3.45;1200;Servietten;4002911100028
+PS-1003;Trinkbecher 0,2 l;9,5 ;0;Becher;4002911100035
+;Holzbesteck Set;7,20;80;Besteck;4002911100042
+PS-1005;Menuebox klein;kostenlos;15;Verpackung;4002911100059
+PS-1006;Strohhalm Papier;2,10 €;-5;Zubehoer;4002911100066
+PS-1002;Serviette 3-lagig weiss 33 cm;3,60;950;Servietten;4002911100028
+PS-1008;Schale eckig 500 ml;;40;Schalen;4002911100073
+PS-1009;Schuessel Zuckerrohr 750 ml;5,00;210;Schalen;4002911100080
+PS-1010;Grillschale Alu;1,95;;Zubehoer;4002911100097
+PS-1011;Schale eckig 500 ml;;40;Schalen;4002911100073
+PS-1012;Schuessel Zuckerrohr 750 ml;5,00;210;Schalen;4002911100080
+PS-1013;Grillschale Alu;1,95;;Zubehoer;4002911100099
+   ;Artikel ohne SKU;2,50;10;Test;0012345678901
+PS-1015;Kostenlose Probe;0;5;Test;0012345678902
+PS-1016;Artikel mit ungueltigem Preis;abc;5;Test;0012345678903
+PS-1017;Artikel mit negativem Preis;-2,50;5;Test;0012345678904
+PS-1018;Artikel mit Dezimalbestand;3,50;2.5;Test;0012345678905
+PS-1019;Artikel mit Textbestand;3,50;viel;Test;0012345678906
+PS-1020;Artikel ohne EAN-Spalte;3,50;5;Test
+PS-1021;Artikel mit Zusatzspalte;3,50;5;Test;0012345678907;extra
+PS-1022;Artikel mit Europreis; 4,20 € ;8;Test;0012345678908
+PS-1023;Artikel mit gerundetem Preis;1,239;8;Test;0012345678909
+  PS-1024  ;Artikel mit SKU-Leerzeichen;2,00;4;Test;0012345678910
+PS-1025;"Schale; gross";6,90;3;Schalen;0012345678911
+PS-1001;Ungueltige spaetere Version;kostenlos;20;Teller;4002911100011
+PS-0001;Artikel fuer Sortiertest;1,00;1;Test;0012345678912
